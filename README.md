@@ -1,4 +1,4 @@
-## CURRENCY VOLATILITY ANALYSIS
+## CURRENCY ANALYSIS
 This project is an analysis of historical forex data using the Frankfurter API.
 
 ## Requirements
